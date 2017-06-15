@@ -1,0 +1,8 @@
+title: Kuber Kaul
+description: "I am a 20 something developer and technology enthusiast who works in Princeton and sleeps in New York City. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
